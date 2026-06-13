@@ -53,39 +53,11 @@ All models pretrained on ImageNet and fine-tuned on HAM10000.
 
 ---
 
-## Results
-
-*(updating as experiments complete)*
-
-| Model | Accuracy | F1 (Weighted) | AUC-ROC |
-|-------|----------|----------------|---------|
-| EfficientNet-B3 | — | — | — |
-| ViT-Small | — | — | — |
-| Hybrid (ours) | — | — | — |
-
----
-
-## Setup
-
-```bash
-# Libraries used
-torch, torchvision, timm, albumentations, scikit-learn, pandas, matplotlib
-```
-
-Trained on Google Colab (T4 GPU, 16GB VRAM).  
-Each notebook is self-contained and runs top-to-bottom.
-
----
-
-## Target Venues
-
-MIDL · ISBI · IEEE JBHI
-
----
 
 ## About
 
-Built by **Maavia Rizwan** — CS student, independent AI/ML researcher.  
+> Built by **Maavia Rizwan** — CS student, AI/ML researcher.  
+> DIP Lab - Islamia College Peshawar 
 Part of [Synaptix](https://github.com/maaviarizwan) — a student AI collective.
 
 This is a work in progress. Notebooks, figures, and results update as each 
