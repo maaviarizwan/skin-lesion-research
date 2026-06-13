@@ -58,6 +58,7 @@ All models pretrained on ImageNet and fine-tuned on HAM10000.
 
 > Built by **Maavia Rizwan** — CS student, AI/ML researcher.  
 > DIP Lab - Islamia College Peshawar.
+
 Part of [Synaptix](https://github.com/maaviarizwan) — a student AI collective.
 
 This is a work in progress. Notebooks, figures, and results update as each 
